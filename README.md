@@ -23,6 +23,7 @@ Little game for the Monster M4sk. Catch the heart before Blinka
 * Each time you reach 10 points, you level-up : scores are back to 0-0, Blinka speed-up a little and wait less when the heart move.
 * When Blinka reach 10 pts, it's **game over**. Click any of the 3 top-right buttons to reset the game.
 
+<img src="https://raw.githubusercontent.com/Marius-450/screenshots/master/Chateau2.jpg" width="200">
 
 ### TODO 
 
