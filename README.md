@@ -27,7 +27,7 @@ Little game for the Monster M4sk. Catch the heart before Blinka
 
 ### TODO 
 
-* A Boss level. *Currently working on it*
+* A Boss level
 * Power-ups
 * A welcome screen 
 * Extending game over screen to the 2nd display
@@ -35,7 +35,7 @@ Little game for the Monster M4sk. Catch the heart before Blinka
 
 ### Known Issues
 
-* When steping between the 2 displays, if the sprite go back to the display it come from, the sprite ont the other display may not be hidden correctly
+* When steping between the 2 displays, if the sprite go back to the display it come from, the sprite on the other display may not be hidden correctly
 * Sounds not working
 
 ### Misc
